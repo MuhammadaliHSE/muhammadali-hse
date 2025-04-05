@@ -1,4 +1,18 @@
-<section id="about" style="padding: 60px 0; background-color: #f4f4f4;">
+text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-justify {
+  text-align: justify;
+}<section id="about" style="padding: 60px 0; background-color: #f4f4f4;">
     <div class="container">
         <h2>About Me</h2><section style="text-align: center;">
 I am a highly dedicated and results-driven Health, Safety, and Environmental (HSE) Officer with over Five years of experience in ensuring the safety and well-being of employees across Industrial JWDC, Jubail(Jazlah water desalination plant) and construction KAFD, Riyadh(king abdullah financial district) projects. My commitment to fostering a safe work environment is not just about compliance but also about creating a culture where safety is at the forefront of every operation. I specialize in identifying potential hazards, conducting risk assessments, and implementing proactive safety measures to prevent accidents and improve overall organizational efficiency.
