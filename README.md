@@ -1,17 +1,4 @@
-text-center {
-  text-align: center;
-}
 
-.text-left {
-  text-align: left;
-}
-
-.text-right {
-  text-align: right;
-}
-
-.text-justify {
-  text-align: justify;
 }<section id="about" style="padding: 60px 0; background-color: #f4f4f4;">
     <div class="container">
         <h2>About Me</h2><section style="text-align: center;">
