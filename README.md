@@ -1,3 +1,7 @@
+<header style="background-color: #ffffff; padding: 10px 20px; display: flex; align-items: center;">
+  <img src="logo.png" alt="Site Logo" style="height: 50px; margin-right: 15px;">
+  <h1 style="font-size: 1.5em; color: #333333;">Muhammad Ali – HSE Portfolio</h1>
+</header>
 
 <section id="about" style="padding: 60px 0; background-color: #f4f4f4;">
     <div class="container">
