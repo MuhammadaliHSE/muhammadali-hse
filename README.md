@@ -1,5 +1,5 @@
 
-}<section id="about" style="padding: 60px 0; background-color: #f4f4f4;">
+<section id="about" style="padding: 60px 0; background-color: #f4f4f4;">
     <div class="container">
         <h2>About Me</h2><section style="text-align: center;">
 I am a highly dedicated and results-driven Health, Safety, and Environmental (HSE) Officer with over Five years of experience in ensuring the safety and well-being of employees across Industrial JWDC, Jubail(Jazlah water desalination plant) and construction KAFD, Riyadh(king abdullah financial district) projects. My commitment to fostering a safe work environment is not just about compliance but also about creating a culture where safety is at the forefront of every operation. I specialize in identifying potential hazards, conducting risk assessments, and implementing proactive safety measures to prevent accidents and improve overall organizational efficiency.
@@ -57,6 +57,19 @@ Key Achievements:
 Implemented a waste segregation system that reduced hazardous waste disposal costs by 15%.
 
 Introduced energy-saving practices that led to a 10% reduction in energy consumption across the plant.
+<section id="certifications" style="padding: 60px 0; background-color: #e9f5ff;">
+  <div class="container" style="width: 85%; margin: auto;">
+    <h2 style="text-align: center;">Certifications</h2>
+    <ul style="list-style-type: square; font-size: 1.1em; line-height: 1.8; padding-left: 30px;">
+      <li><strong>NEBOSH International General Certificate</strong> – NEBOSH, UK</li>
+      <li><strong>ISO 45001:2018 Lead Auditor</strong> – Occupational H&S Management Systems</li>
+      <li><strong>OSHA 30-Hour General Industry</strong> – OSHA, USA</li>
+      <li><strong>Basic First Aid & CPR</strong> – Certified Emergency First Responder</li>
+      <li><strong>Fire Safety & Emergency Preparedness</strong> – Fire Warden Certification</li>
+    </ul>
+  </div>
+</section>
+
 
 Why Choose Me?
 My diverse experience in risk management, regulatory compliance, and safety training makes me a valuable asset to any organization looking to improve its HSE practices. I believe that safety isn’t just about meeting legal requirements—it’s about fostering a culture where every employee feels responsible for their safety and that of their colleagues. By leveraging my skills and experience, I aim to create safer and more productive workplaces for everyone.
